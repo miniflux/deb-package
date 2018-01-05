@@ -1,5 +1,5 @@
-miniflux (2.0.0-beta1) experimental; urgency=low
+miniflux (2.0.0-rc1) experimental; urgency=low
 
   * Initial release.
 
- -- Frédéric Guillot <fred@miniflux.net>  Sat, 27 Dec 2017 02:54:03 +0000
+ -- Frédéric Guillot <fred@miniflux.net>  Thu, 4 Jan 2018 22:20:03 +0000
