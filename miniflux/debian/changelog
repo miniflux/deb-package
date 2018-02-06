@@ -1,17 +1,23 @@
+miniflux (2.0.2) experimental; urgency=low
+
+  * Miniflux version 2.0.2 (See https://github.com/miniflux/miniflux/releases/tag/2.0.2)
+
+ -- Frédéric Guillot <fred@miniflux.net>  Mon, 5 Feb 2018 20:32:40 -0800
+
 miniflux (2.0.1) experimental; urgency=low
 
   * Miniflux version 2.0.1 (See https://github.com/miniflux/miniflux/releases/tag/2.0.1)
 
- -- Frédéric Guillot <fred@miniflux.net>  Mon, 22 Jan 2018 21:32:03 +0000
+ -- Frédéric Guillot <fred@miniflux.net>  Mon, 22 Jan 2018 21:32:03 -0800
 
 miniflux (2.0.0) experimental; urgency=low
 
   * Miniflux version 2.0.0 (See https://github.com/miniflux/miniflux/releases/tag/2.0.0)
 
- -- Frédéric Guillot <fred@miniflux.net>  Thu, 11 Jan 2018 20:20:03 +0000
+ -- Frédéric Guillot <fred@miniflux.net>  Thu, 11 Jan 2018 20:20:03 -0800
 
 miniflux (2.0.0-rc1) experimental; urgency=low
 
   * Initial release (See https://github.com/miniflux/miniflux/releases/tag/2.0.0-rc1)
 
- -- Frédéric Guillot <fred@miniflux.net>  Thu, 4 Jan 2018 22:20:03 +0000
+ -- Frédéric Guillot <fred@miniflux.net>  Thu, 4 Jan 2018 22:20:03 -0800
