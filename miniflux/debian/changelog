@@ -1,3 +1,9 @@
+miniflux (2.0.13) experimental; urgency=low
+
+  * Miniflux version 2.0.13 (See https://github.com/miniflux/miniflux/releases/tag/2.0.13)
+
+ -- Frédéric Guillot <fred@miniflux.net>  Sun, 25 Nov 2018 19:57:01 -0800
+
 miniflux (2.0.12) experimental; urgency=low
 
   * Miniflux version 2.0.12 (See https://github.com/miniflux/miniflux/releases/tag/2.0.12)
