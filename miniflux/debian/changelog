@@ -1,3 +1,9 @@
+miniflux (2.0.20) experimental; urgency=low
+
+  * Miniflux version 2.0.20 (See https://github.com/miniflux/miniflux/releases/tag/2.0.20)
+
+ -- Frédéric Guillot <fred@miniflux.net>  Sat, 15 Feb 2020 18:17:36 -0800
+
 miniflux (2.0.19) experimental; urgency=low
 
   * Miniflux version 2.0.19 (See https://github.com/miniflux/miniflux/releases/tag/2.0.19)
