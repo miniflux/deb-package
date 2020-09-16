@@ -9,5 +9,15 @@ User=miniflux
 ExecStart=/usr/bin/miniflux
 Restart=always
 
+# Hardening options:
+NoNewPrivileges=true
+PrivateDevices=true
+ProtectControlGroups=true
+ProtectHome=true
+ProtectKernelModules=true
+ProtectKernelTunables=true
+ProtectSystem=strict
+RestrictRealtime=true
+
 [Install]
 WantedBy=multi-user.target
